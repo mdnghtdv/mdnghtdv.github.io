@@ -20,4 +20,4 @@ Text3
 
 **Bold** and _Italic_ and `Code` text
 
-[CONTACTS](https://github.com/mdnghtdv/mdnghtdv.github.io/about/contacts.md)
+[CONTACTS](https://mdnghtdv.github.io/about/contacts)
