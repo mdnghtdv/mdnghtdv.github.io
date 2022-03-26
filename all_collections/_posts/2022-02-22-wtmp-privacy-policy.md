@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WTMP Privacy Policy
-date: 2022-02-22 22:02:22
+date: 2022-02-22
 categories: [wtmp, android, privacy]
 ---
 
