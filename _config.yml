@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 
+title: MidnightDev
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
 page-col: "#FFFFFF"
