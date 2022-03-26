@@ -1,4 +1,21 @@
-title: MidnightDev 101
-description: GHP site
-show_downloads: false
-theme: jekyll-theme-hacker
+title: MidnightDev
+markdown: kramdown
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
