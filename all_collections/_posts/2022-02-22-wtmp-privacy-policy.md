@@ -26,5 +26,8 @@ WTMP is in accordance with the [Offical User Data Policy for Google API Services
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+## Data Policy
+The application (WTMP) can collect the following information: photos from the camera, and information about the running applications. The collected information will not be transmitted outside and stored on your Android-device only. The information is not provided to third parties and retained only for the user. User has the right to dispose the information collected by the application (For example, sync with your Google Drive). By downloading the app, you agree to this Privacy Policy.
+
 ## Refund Policy
 If more than three days have passed since the purchase, we will make a refund. If during this time there were no problems using the application and you did not apply for a refund to the application support team, then a refund for the purchase is not provided.
