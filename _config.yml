@@ -1,5 +1,6 @@
 title: MidnightDev
 markdown: kramdown
+google_analytics: "G-SC5HTN6QYY"
 
 plugins:
   - jemoji
