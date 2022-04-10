@@ -19,7 +19,7 @@ This is done by an evil custom service called *HwPFWService* (and in EMUI 9 this
 
 Go to `Phone settings > Battery > App launch` (alternative way `Phone settings > Battery > App launch`) and then set WTMP app to `Manage manually` and make sure everything is turned on.
 
-1. `Phone settings > Apps` or `Phone settings > Battery`. This feature may or may not be available for all devices or labeled differently.
+1. Open `Phone settings > Apps` or `Phone settings > Battery`. This feature may or may not be available for all devices or labeled differently.
 2. Open `App launch` section. When `Manage automatically` is enabled, some app launches will be prevented to save power.
 3. Turn off `Manage automatically` for the WTMP app.
 4. Make sure to ENABLE all toggles in the `Manage manually` section! Press `OK`.
