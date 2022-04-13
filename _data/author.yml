@@ -1,13 +1,15 @@
 name: mdnghtdv
 dp: https://avatars.githubusercontent.com/u/102413990?s=400&u=2b35973b9a606b30848d896b12162f9011b5fbdc&v=4
 description: "
-  <p>
-   Who Touched My Phone?
-  </p>
+  <p>Who Touched My Phone?</p>
   <br/>
   <p>
     Get it on <a href='https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware' target='_blank'>Google Play</a>
-  </P>
+  </p>
+  <br/>
+  <p>
+    Explore it on <a href='https://appgallery.huawei.com/#/app/C105790813?appId=C105790813' target='_blank'>AppGallery</a>
+  </p>
 "
 contact:
   - title: telegram
