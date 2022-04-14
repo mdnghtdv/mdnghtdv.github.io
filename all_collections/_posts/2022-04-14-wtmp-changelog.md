@@ -5,7 +5,7 @@ date: 2022-04-14
 categories: [wtmp, android, changelog]
 ---
 
-## 6.2.1
+## 6.2.3
 
 1. New monitoring options. You can separately select the types of reports that you want to save.
 2. Help (Problem solving) on the settings screen.
