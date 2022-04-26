@@ -7,7 +7,9 @@ categories: [wtmp, android, guide]
 
 All questions about device admin.
 
-Scroll down 👇🏼 to see the translation 🇩🇪DE, 🇪🇸ES, 🇫🇷FR, 🇵🇹PT, 🇷🇺RU.
+Scroll down 👇🏼 to see the translation 🇬🇧EN, 🇩🇪DE, 🇪🇸ES, 🇫🇷FR, 🇵🇹PT, 🇷🇺RU.
+
+## 🇬🇧EN
 
 ## Why does WTMP need to be administrator?
 
