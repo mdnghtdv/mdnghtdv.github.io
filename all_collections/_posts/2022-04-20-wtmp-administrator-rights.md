@@ -7,6 +7,8 @@ categories: [wtmp, android, guide]
 
 All questions about device admin.
 
+![cameras](https://raw.githubusercontent.com/mdnghtdv/mdnghtdv.github.io/main/assets/images/administrator.png)
+
 Scroll down 👇🏼 to see the translation 🇬🇧EN, 🇩🇪DE, 🇪🇸ES, 🇫🇷FR, 🇵🇹PT, 🇷🇺RU.
 
 ## 🇬🇧EN
