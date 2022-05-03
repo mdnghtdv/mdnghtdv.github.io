@@ -13,7 +13,7 @@ Scroll down 👇🏼 to see the translation
 
 [🇬🇧EN](#en), [🇩🇪DE](#de), [🇪🇸ES](#es), [🇫🇷FR](#fr), [🇵🇹PT](#pt), [🇷🇺RU](#ru).
 
-## <a name="en">🇬🇧 EN</a>
+## 🇬🇧 EN <a id="en"></a>
 
 ## Why does WTMP need to be administrator?
 
@@ -29,7 +29,7 @@ Google says: “… To uninstall an existing device admin app, users need to fir
 
 No. WTMP will never erase any data from your phone. App uses administrator rights only to monitor failed unlock attempts. Android is so designed that when you request administrator rights, it displays a warning with text “… erase all the phone’s data if too many incorrect passwords are typed”. The warning you see is just a standard unchangeable message provided by the Android System.
 
-## <a name="de">🇩🇪 DE</a>
+## 🇩🇪 DE <a id="de"></a>
 
 ## Warum muss WTMP Administrator sein?
 
@@ -43,7 +43,7 @@ Google sagt: “… Um eine vorhandene Administrator-App zu deinstallieren, müs
 
 Nein. WTMP löscht niemals Daten von Ihrem Telefon. Die App verwendet Administratorrechte nur, um fehlgeschlagene Entsperrversuche zu überwachen. Android ist so konzipiert, dass beim Anfordern von Administratorrechten eine Warnung mit dem Text “… alle Daten auf dem Telefon löschen, wenn zu häufig eine falsches Passwort eingegeben wird” angezeigt wird. Die Warnung, die Sie sehen, ist nur eine unveränderliche Standardmeldung, die vom Android-System bereitgestellt wird.
 
-## <a name="es">🇪🇸 ES</a>
+## 🇪🇸 ES <a id="es"></a>
 
 ## ¿Por qué WTMP necesita ser administrador?
 
@@ -57,7 +57,7 @@ Google dice: “… Para desinstalar una app de administración de dispositivos 
 
 No. WTMP nunca borrará ningún dato de su teléfono. La aplicación usa derechos de administrador solo para monitorear intentos fallidos de desbloqueo. Android está tan diseñado que cuando solicita derechos de administrador, muestra una advertencia con el texto “… o elimina todos sus datos si se introducen demasiadas contraseñas incorrectas”. La advertencia que ve es solo un mensaje estándar inmutable proporcionado por el sistema Android.
 
-## <a name="fr">🇫🇷 FR</a>
+## 🇫🇷 FR <a id="fr"></a>
 
 ## Pourquoi WTMP doit-il être administrateur?
 
@@ -71,7 +71,7 @@ Google dit: “… Pour désinstaller une application administrateur existante, 
 
 Non. WTMP n’effacera jamais aucune donnée de votre téléphone. L’application utilise les droits d’administrateur uniquement pour surveiller les tentatives de déverrouillage qui ont échoué. Android est conçu de telle sorte que lorsque vous demandez des droits d’administrateur, il affiche un avertissement avec le texte “… ou effacer toutes ses données si le nombre maximal de tentatives de saisie du mot de passe est atteint”. L’avertissement que vous voyez n’est qu’un message inchangeable standard fourni par le système Android.
 
-## <a name="pt">🇵🇹 PT</a>
+## 🇵🇹 PT <a id="pt"></a>
 
 ## Por que o WTMP precisa ser administrador?
 
@@ -85,7 +85,7 @@ O Google diz: “… Para desinstalar um aplicativo de administração de dispos
 
 Não. O WTMP nunca apagará nenhum dado do seu telefone. App uses administrator rights only to monitor failed unlock attempts. O Android foi projetado para que, quando você solicite direitos de administrador, ele exiba um aviso com texto “… apague todos os dados do telefone se digitar muitas senhas incorretas”. O aviso que você vê é apenas uma mensagem imutável padrão fornecida pelo sistema Android.
 
-## <a name="ru">🇷🇺 RU</a>
+## 🇷🇺 RU <a id="ru"></a>
 
 ## Зачем приложению нужны права администратора?
 
