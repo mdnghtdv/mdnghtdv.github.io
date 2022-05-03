@@ -9,7 +9,9 @@ All questions about device admin.
 
 ![cameras](https://raw.githubusercontent.com/mdnghtdv/mdnghtdv.github.io/main/assets/images/administrator.png)
 
-Scroll down 👇🏼 to see the translation [🇬🇧EN](#🇬🇧-en), [🇩🇪DE](#🇩🇪-DE), [🇪🇸ES](#🇪🇸-ES), [🇫🇷FR](#🇫🇷-FR), [🇵🇹PT](#🇵🇹-PT), [🇷🇺RU](#🇷🇺-RU).
+Scroll down 👇🏼 to see the translation 
+
+[🇬🇧EN](#why-does-wtmp-need-to-be-administrator?), [🇩🇪DE](#warum-muss-wtmp-administrator-sein?), [🇪🇸ES](#¿por-qué-wtmp-necesita-ser-administrador?), [🇫🇷FR](#pourquoi-wtmp-doit-il-être-administrateur?), [🇵🇹PT](#por-que-o-wtmp-precisa-ser-administrador?), [🇷🇺RU](#зачем-приложению-нужны-права-администратора?).
 
 ## 🇬🇧 EN
 
