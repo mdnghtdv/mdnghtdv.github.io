@@ -9,9 +9,9 @@ All questions about device admin.
 
 ![cameras](https://raw.githubusercontent.com/mdnghtdv/mdnghtdv.github.io/main/assets/images/administrator.png)
 
-Scroll down 👇🏼 to see the translation 🇬🇧EN, 🇩🇪DE, 🇪🇸ES, 🇫🇷FR, 🇵🇹PT, 🇷🇺RU.
+Scroll down 👇🏼 to see the translation [🇬🇧EN](#🇬🇧-en), [🇩🇪DE](#🇩🇪-DE), [🇪🇸ES](#🇪🇸-ES), [🇫🇷FR](#🇫🇷-FR), [🇵🇹PT](#🇵🇹-PT), [🇷🇺RU](#🇷🇺-RU).
 
-## 🇬🇧EN
+## 🇬🇧 EN
 
 ## Why does WTMP need to be administrator?
 
