@@ -9,9 +9,7 @@ All questions about device admin.
 
 ![cameras](https://raw.githubusercontent.com/mdnghtdv/mdnghtdv.github.io/main/assets/images/administrator.png)
 
-Scroll down 👇🏼 to see the translation 
-
-[🇬🇧EN](#en), [🇩🇪DE](#de), [🇪🇸ES](#es), [🇫🇷FR](#fr), [🇵🇹PT](#pt), [🇷🇺RU](#ru).
+Scroll down 👇🏼 [🇬🇧EN](#en), [🇩🇪DE](#de), [🇪🇸ES](#es), [🇫🇷FR](#fr), [🇵🇹PT](#pt), [🇷🇺RU](#ru).
 
 ## 🇬🇧 EN <a id="en"></a>
 
