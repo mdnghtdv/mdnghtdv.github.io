@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-04-18
+date: 2022-05-10
 categories: [wtmp, android, changelog]
 ---
+
+## 6.2.6
+
+1. Privacy Policy dialog.
+2. Help improvements.
 
 ## 6.2.5
 
