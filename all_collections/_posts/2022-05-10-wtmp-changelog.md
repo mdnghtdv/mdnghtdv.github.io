@@ -5,6 +5,11 @@ date: 2022-05-10
 categories: [wtmp, android, changelog]
 ---
 
+## 6.2.7
+
+1. In-app updates feature.
+2. Chinese translation.
+
 ## 6.2.6
 
 1. Privacy Policy dialog.
