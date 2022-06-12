@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-05-10
+date: 2022-06-12
 categories: [wtmp, android, changelog]
 ---
 
