@@ -26,9 +26,6 @@ Scroll down 👇🏼 [🇬🇧EN](#en), [🇩🇪DE](#de), [🇪🇸ES](#es), [�
 - Some applications that actively interact with the camera (e.g. FaceID) may interfere with the application.
 - Sometimes problems can be caused by improper operation of the camera API. You can change the camera API in the advanced settings of the app.
 
-### 3. Photo rotation
-You can change the photo rotation angle in advanced settings. [How to open Advanced Settings?](https://wtmp.app/posts/wtmp-user-guide/)
-
 
 ## 🇩🇪 DE <a id="de"></a>
 
@@ -44,9 +41,6 @@ You can change the photo rotation angle in advanced settings. [How to open Advan
 - Überprüfen Sie, ob es Systemeinschränkungen für Anwendungen gibt, die im Hintergrund ausgeführt werden (insbesondere auf chinesischen Geräten). Dies kann “Power Manager”, “App Battery Saver” usw. sein. Es ist wichtig, die Informationen auf dieser [Don’t Kill My App](https://dontkillmyapp.com/) Website zu lesen.
 - Einige Anwendungen, die aktiv mit der Kamera interagieren (z.B. FaceID), können sich auf die Anwendung auswirken.
 - Manchmal können Probleme durch unsachgemäßen Betrieb der Kamera-API verursacht werden. Sie können die Kamera-API in den erweiterten Einstellungen der Anwendung ändern.
-
-### 3. Fotorotation
-Sie können den Fotodrehwinkel in den erweiterten Einstellungen ändern. [Wie öffne ich die erweiterten Einstellungen?](https://wtmp.app/posts/wtmp-user-guide/)
 
 
 ## 🇪🇸 ES <a id="es"></a>
@@ -64,9 +58,6 @@ Sie können den Fotodrehwinkel in den erweiterten Einstellungen ändern. [Wie ö
 - Algunas aplicaciones que interactúan activamente con la cámara (por ejemplo, FaceID) pueden interferir con la aplicación.
 - A veces, los problemas pueden ser causados por un funcionamiento incorrecto de la API de la cámara. Puede cambiar la API de la cámara en la configuración avanzada de la aplicación.
 
-### 3. Rotación de fotos
-Puede cambiar el ángulo de rotación de la foto en la configuración avanzada. [¿Cómo abrir la Configuración avanzada?](https://wtmp.app/posts/wtmp-user-guide/)
-
 
 ## 🇫🇷 FR <a id="fr"></a>
 
@@ -82,9 +73,6 @@ Puede cambiar el ángulo de rotación de la foto en la configuración avanzada. 
 - Vérifiez s’il existe des restrictions système pour les applications s’exécutant en arrière-plan (en particulier sur les appareils chinois). Il peut s’agir de «Power manager», «App Battery Saver», etc. Il est important de lire les informations sur ce site Web [Don’t Kill My App](https://dontkillmyapp.com/).
 - Certaines applications qui interagissent activement avec l’appareil photo (par exemple FaceID) peuvent interférer avec l’application.
 - Parfois, des problèmes peuvent être causés par un mauvais fonctionnement de l’API de la caméra. Vous pouvez modifier l’API de la caméra dans les paramètres avancés de l’application.
-
-### 3. Rotation des photos
-Vous pouvez modifier l’angle de rotation de la photo dans les paramètres avancés. [Comment ouvrir les paramètres avancés?](https://wtmp.app/posts/wtmp-user-guide/)
 
 
 ## 🇵🇹 PT <a id="pt"></a>
@@ -102,9 +90,6 @@ Vous pouvez modifier l’angle de rotation de la photo dans les paramètres avan
 - Alguns aplicativos que interagem ativamente com a câmera (por exemplo, FaceID) podem interferir no aplicativo.
 - Às vezes, os problemas podem ser causados por operação incorreta da API da câmera. Você pode alterar a API da câmera nas configurações avançadas do aplicativo.
 
-### 3. Rotação de fotos
-Você pode alterar o ângulo de rotação da foto nas configurações avançadas. [Como abrir as configurações avançadas?](https://wtmp.app/posts/wtmp-user-guide/)
-
 
 ## 🇷🇺 RU <a id="ru"></a>
 
@@ -120,6 +105,3 @@ Você pode alterar o ângulo de rotação da foto nas configurações avançadas
 - Проверьте, что система не ограничивает фоновую работу приложения (особенно на китайских устройствах). Это могут быть “Настройки питания”, “Оптимизация батареи”. Проверьте свое устройство на сайте [Don’t Kill My App](https://dontkillmyapp.com/). Это очень важно.
 - Некоторые другие приложения, которые активно взаимодействуют с камерой (например FaceID), могут мешать работе приложения.
 - Иногда проблема может быть связана с используемым API камеры. Вы можете переключить API в расширенных настройках приложения.
-
-### 3. Поворот фото
-В расширенных настройках вы можете изменить угол поворота фотографий. [Как открыть расширенные настройки?](https://wtmp.app/posts/wtmp-user-guide/)
