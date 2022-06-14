@@ -5,7 +5,7 @@ date: 2022-02-22
 categories: [wtmp, android, privacy]
 ---
 
-If you choose to use WTMP you automatically agree to this policy
+If you choose to use **Who Touched My Phone** (**WTMP**) app you automatically agree to this policy.
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -31,3 +31,5 @@ The application (WTMP) can collect the following information: photos from the ca
 
 ## Refund Policy
 Refunds for purchases are possible within three days after installing the application. If during this time there were no problems using the application and you did not contact the application support team for a refund, then a refund for purchases is not provided.
+
+*Denis Sakhno, MidnightDev Team.*
