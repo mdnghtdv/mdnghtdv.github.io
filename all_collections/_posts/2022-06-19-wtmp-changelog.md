@@ -1,9 +1,16 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-06-12
+date: 2022-06-19
 categories: [wtmp, android, changelog]
 ---
+
+## 6.2.8
+
+1. Fix photo cropping on zoom screen.
+2. Accept button to policy dialog.
+3. Serbian translation.
+4. Usage events instead of usage stats.
 
 ## 6.2.7
 
