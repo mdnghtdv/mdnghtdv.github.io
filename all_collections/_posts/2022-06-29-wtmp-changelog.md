@@ -1,16 +1,21 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-06-19
+date: 2022-06-29
 categories: [wtmp, android, changelog]
 ---
 
+## 6.2.9
+
+1. Mobile service availability checking before app update.
+2. Login screen improvements.
+
 ## 6.2.8
 
-1. Fix photo cropping on zoom screen.
-2. Accept button to policy dialog.
+1. Photo cropping bugfix.
+2. Accept button in the policy dialog.
 3. Serbian translation.
-4. Usage events instead of usage stats.
+4. Improved list of launched apps.
 
 ## 6.2.7
 
