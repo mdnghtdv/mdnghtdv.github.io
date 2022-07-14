@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-06-29
+date: 2022-07-14
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.0
+
+1. Translation changes
+2. In-app purchases library update
 
 ## 6.2.9
 
