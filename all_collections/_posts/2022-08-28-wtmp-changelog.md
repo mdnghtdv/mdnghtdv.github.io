@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-07-14
+date: 2022-08-28
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.1
+
+1. Notifications about failed unlock attempts.
 
 ## 6.3.0
 
