@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-08-28
+date: 2022-09-30
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.2
+
+1. Request ignore battery optimizations.
+2. New permission dialogs.
 
 ## 6.3.1
 
