@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-09-30
+date: 2022-10-30
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.3
+
+1. Dynamic color theme switching.
 
 ## 6.3.2
 
