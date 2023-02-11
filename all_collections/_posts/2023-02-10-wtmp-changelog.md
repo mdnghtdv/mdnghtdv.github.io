@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2022-10-30
+date: 2023-02-10
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.4
+
+1. Show advanced settings in main settings if the user has used them before.
+2. Ability to switch app language in system settings (Android 13+ only).
 
 ## 6.3.3
 
