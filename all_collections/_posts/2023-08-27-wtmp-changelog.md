@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-02-10
+date: 2023-08-27
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.5
+1. Migration to Android 13 (API level 33). [Why target newer SDKs?](https://developer.android.com/google/play/requirements/target-sdk#why-target)
+2. Material Design 3. Material 3 is the latest version of Google’s open-source design system.
 
 ## 6.3.4
 
