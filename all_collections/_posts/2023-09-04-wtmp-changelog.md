@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-08-28
+date: 2023-09-04
 categories: [wtmp, android, changelog]
 ---
+
+## 6.3.7 
+
+1. Updated versions of some libraries.
 
 ## 6.3.6
 
