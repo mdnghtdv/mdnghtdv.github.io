@@ -1,11 +1,18 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-09-10
+date: 2023-11-07
 categories: [wtmp, android, changelog]
 ---
 
+## 6.3.9
+
+1. Updated photo [carousel](https://m3.material.io/components/carousel/overview).
+2. Animated splash.
+3. Photo gallery for each report.
+
 ## 6.3.8
+
 1. Updated photo [carousel](https://m3.material.io/components/carousel/overview).
 2. Setting the sync mode in the main settings.
 
