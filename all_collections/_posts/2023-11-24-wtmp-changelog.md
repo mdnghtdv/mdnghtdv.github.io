@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-11-07
+date: 2023-11-24
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.0
+
+1. Experimental settings removed.
 
 ## 6.3.9
 
