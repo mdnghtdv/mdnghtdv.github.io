@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-11-24
+date: 2023-11-29
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.1
+
+1. Fixed an issue with the settings toolbar on some devices.
 
 ## 6.4.0
 
