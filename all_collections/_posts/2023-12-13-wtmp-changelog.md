@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-11-29
+date: 2023-12-13
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.2
+
+1. New application build option.
+2. Updated icons and animations for all build options.
 
 ## 6.4.1
 
