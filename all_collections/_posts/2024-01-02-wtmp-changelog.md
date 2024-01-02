@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2023-12-13
+date: 2024-01-02
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.3
+
+1. New color themes for different build options.
+2. Removed some legacy code.
 
 ## 6.4.2
 
