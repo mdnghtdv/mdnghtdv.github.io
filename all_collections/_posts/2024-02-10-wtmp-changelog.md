@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2024-01-02
+date: 2024-02-10
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.4
+
+1. Synchronization with YandexDisk (RuStore).
 
 ## 6.4.3
 
