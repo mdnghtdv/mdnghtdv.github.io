@@ -5,6 +5,8 @@ date: 2024-05-31
 categories: [wtmp, android]
 ---
 
+![birthday](https://raw.githubusercontent.com/mdnghtdv/mdnghtdv.github.io/main/assets/images/birthday.png)
+
 ### On May 16, our application turned 10 years old!
 
 It was we who came up with the abbreviation WTMP ten years ago, which is now used not only by us, but also by our competitors.
