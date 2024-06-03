@@ -7,7 +7,7 @@ categories: [wtmp, android, changelog]
 
 ## 6.4.5
 
-1. Migration to Android 14 (API level 34). [Why target newer SDKs?]((https://developer.android.com/google/play/requirements/target-sdk#why-target))
+1. Migration to Android 14 (API level 34). [Why target newer SDKs?](https://developer.android.com/google/play/requirements/target-sdk#why-target)
 2. Fixed switch style changing when switching themes.
 
 ## 6.4.4
