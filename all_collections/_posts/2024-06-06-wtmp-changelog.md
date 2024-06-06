@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2024-05-31
+date: 2024-06-06
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.6
+
+1. Optimized cloud sync for Android 14 (API level 34).
 
 ## 6.4.5
 
