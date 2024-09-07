@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2024-06-06
+date: 2024-09-07
 categories: [wtmp, android, changelog]
 ---
+
+## 6.4.7
+
+1. Improve foreground service behavior.
 
 ## 6.4.6
 
