@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2024-09-07
+date: 2024-12-25
 categories: [wtmp, android, changelog]
 ---
+
+# 6.4.8
+
+1. New [CameraX](https://developer.android.com/jetpack/androidx/releases/camera) version.
+2. Redesigned app info screen.
 
 ## 6.4.7
 
