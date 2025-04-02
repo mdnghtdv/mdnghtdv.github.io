@@ -1,11 +1,18 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2024-12-25
+date: 2025-04-02
 categories: [wtmp, android, changelog]
 ---
 
-# 6.4.8
+## 6.4.9
+
+1. New app settings.
+2. Edge-to-edge design. 
+3. Bugfix for Huawei Mate X6.
+4. Google Credential Manager.
+
+## 6.4.8
 
 1. New [CameraX](https://developer.android.com/jetpack/androidx/releases/camera) version.
 2. Redesigned app info screen.
