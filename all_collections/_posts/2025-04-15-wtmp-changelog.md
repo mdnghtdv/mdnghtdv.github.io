@@ -1,14 +1,21 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2025-04-02
+date: 2025-04-15
 categories: [wtmp, android, changelog]
 ---
+
+## 6.5.0
+
+1. PIN code from 4 to 6 digits.
+2. New help screen.
+3. [Edge-to-edge](https://developer.android.com/design/ui/mobile/guides/layout-and-content/edge-to-edge) design improvements. 
+4. New bugfix for Huawei Mate X6.
 
 ## 6.4.9
 
 1. New app settings.
-2. Edge-to-edge design. 
+2. [Edge-to-edge](https://developer.android.com/design/ui/mobile/guides/layout-and-content/edge-to-edge) design. 
 3. Bugfix for Huawei Mate X6.
 4. Google Credential Manager.
 
