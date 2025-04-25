@@ -1,9 +1,14 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2025-04-15
+date: 2025-04-25
 categories: [wtmp, android, changelog]
 ---
+
+## 6.5.1
+
+1. [Edge-to-edge](https://developer.android.com/design/ui/mobile/guides/layout-and-content/edge-to-edge) design improvements.
+2. New screen about app.
 
 ## 6.5.0
 
