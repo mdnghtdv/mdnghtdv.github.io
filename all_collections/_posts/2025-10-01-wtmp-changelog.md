@@ -1,9 +1,13 @@
 ---
 layout: post
 title: WTMP Changelog
-date: 2025-04-25
+date: 2025-10-01
 categories: [wtmp, android, changelog]
 ---
+
+## 6.5.2
+
+1. Migration to Android 15 (API level 35). [Why target newer SDKs?](https://developer.android.com/google/play/requirements/target-sdk#why-target)
 
 ## 6.5.1
 
